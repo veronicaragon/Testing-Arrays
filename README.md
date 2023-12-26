@@ -1,6 +1,6 @@
 # Testing Array Methods 📊🔢
 
-Welcome to the "MiniLab3: Array Methods" Java project! This lab showcases a collection of Java methods designed to manipulate and analyze arrays. Explore each method's unique functionality and test cases to ensure their accuracy.
+Welcome to the "Array Methods" Java project! This lab showcases a collection of Java methods designed to manipulate and analyze arrays. Explore each method's unique functionality and test cases to ensure their accuracy.
 
 ## Methods Overview:
 
