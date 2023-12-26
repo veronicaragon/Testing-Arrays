@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MiniLab3 {
+public class TestingArrays {
 	
 	public static void main (String[] args) {
 
